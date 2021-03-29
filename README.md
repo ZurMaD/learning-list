@@ -205,7 +205,7 @@
 
 ### Be able to setup data annotation efficiently
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
-- [ ] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
+- [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
 - [ ] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [ ] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
@@ -213,15 +213,15 @@
 - [ ] [Youtube: ECCV 2020 WSL tutorial: 4. Human-in-the-loop annotations](https://youtu.be/PCwpO3mLhZk?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr)
 
 ### Be able to manipulate data with Numpy
-- [ ] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-- [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
-- [ ] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
+- [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [X] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [X] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
 - [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
 ### Be able to manipulate data with Pandas
-- [ ] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
-- [ ] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
+- [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [ ] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
 - [ ] [Article: 8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
 - [ ] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
@@ -275,8 +275,8 @@
 
 ### Be able to use Linux tools
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
-- [ ] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
-- [ ] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
+- [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
+- [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [ ] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
