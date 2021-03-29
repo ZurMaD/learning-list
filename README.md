@@ -186,7 +186,7 @@
 - [X] [Youtube: Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 
 ### Be familiar with data ethics
-- [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
+- X [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
