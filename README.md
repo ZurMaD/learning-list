@@ -111,7 +111,7 @@
 	- [ ] [Designing Your Customer Experience & Case Studies](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 
 ### Be able to frame an ML problem
-- [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
+- X [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
