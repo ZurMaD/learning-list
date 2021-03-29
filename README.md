@@ -112,8 +112,8 @@
 
 ### Be able to frame an ML problem
 - X [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
-- [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
-- [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
+- X [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
+- X [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
 - [X] [Article: Highlights from ICML 2020](https://lewtun.github.io/blog/research/conference/2020/07/31/icml2020.html)
