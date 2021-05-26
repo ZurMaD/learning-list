@@ -1196,7 +1196,7 @@
 - [ ] [Article: Implementing Bengio’s Neural Probabilistic Language Model (NPLM) using Pytorch](https://abhinavcreed13.github.io/blog/bengio-trigram-nplm-using-pytorch/)
 - [ ] [Doc: Huggingface Summary of the models](https://huggingface.co/transformers/summary.html)
 - [ ] [Doc: Summary of the tokenizers](https://huggingface.co/transformers/master/tokenizer_summary.html)
-- [ ] [Article: OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/)
+- [x] [Article: OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/)
 - [ ] [Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)
 - [ ] [Article: How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
 - [ ] [Article: Semantic Entailment](https://trishalaneeraj.github.io/2017-12-22/semantic-entailment)
